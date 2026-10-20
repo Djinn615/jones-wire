@@ -361,8 +361,8 @@ office as they are confirmed.</p>
 ABOUT_BOX = """<div class="rail-box">
 <h3>About the Wire</h3>
 <p>The Jones County Wire is AI-assisted local reporting. Software drafts every story
-from the public record: court agendas, meeting videos, official posts, election
-filings, weather alerts. A local human reads every word and approves each story
+from the public record: court agendas, meeting minutes, official notices, election
+filings, weather alerts. A human reads every word and approves each story
 before it publishes. Nothing goes out on autopilot.</p>
 <p><a href="about.html">How this works</a></p>
 </div>"""
@@ -478,10 +478,10 @@ nobody has time to attend.</p>
 your water. The city councils of Anson, Stamford, Hawley, and Lueders make
 decisions next door to you. The school boards spend your bond money. All of
 it is public. Almost none of it gets read, because the agendas are long, the
-videos are longer, and the local paper cannot be everywhere.</p>
+minutes are dry, and the local paper cannot be everywhere.</p>
 <p>So I built a Wire that can.</p>
 <p>Here is how it works, in the open. Software reads the public record: court
-agendas, meeting videos, sheriff and fire marshal posts, election filings,
+agendas, meeting minutes, official notices, election filings,
 weather alerts. It drafts the story from those sources. Then I read every
 word, check it against the source, and decide whether it meets the standard.
 Nothing publishes that I have not approved.</p>
@@ -500,8 +500,8 @@ open.</p>
 Wire.</p>
 <h2>How the stories are made</h2>
 <p>The Jones County Wire is an AI-assisted local news page for Jones County,
-Texas. AI systems monitor public sources, court agendas and videos, official
-announcements, and local reporting, then draft each story. <strong>Every story
+Texas. AI systems monitor public sources: court agendas and minutes, official
+notices, election filings, weather alerts, and local reporting, then draft each story. <strong>Every story
 is reviewed and approved by a human before it is published.</strong> Nothing
 goes live on autopilot.</p>
 <p>We report the news straight: no spin, no rumors, no outrage bait. When we
@@ -514,16 +514,16 @@ get something wrong, we correct it plainly.</p>
 <li><strong>Weather Desk</strong>: alerts, burn bans, flood and storm coverage.</li>
 <li><strong>Development Desk</strong>: plats, subdivisions, road projects, growth.</li>
 <li><strong>Elections Desk</strong>: ballots, turnout, results. Runs on its own track during election season.</li>
-<li><strong>Water Desk</strong>: groundwater district, drought stages, lake levels, water policy.</li>
+<li><strong>Water Desk</strong>: lake levels, drought stages, water policy.</li>
 <li><strong>Sports Desk</strong>: Friday night finals and local athletics.</li>
 <li><strong>Community Desk</strong>: the life of the county, events, history, neighbors.</li>
 </ul>
 <p>These are editorial sections, not people. No bylines are invented; every
 story carries the Wire's name and the responsibility that comes with it.</p>
 <h2>Tips</h2>
-<p>See something the Wire should cover? Send a tip through the Jones County
-Wire Facebook page. We verify everything against a real source before
-reporting it.</p>
+<p>See something the Wire should cover? Send a tip through
+<a href="https://www.facebook.com/61595732274028/">the Jones County Wire Facebook page</a>.
+We verify everything against a real source before reporting it.</p>
 </div>"""
 
 
